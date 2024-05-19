@@ -1,4 +1,4 @@
-a Restaurant Website using HTML and CSS with Source Code. This is a Simple Restaurant Website with a main home page, types of food available, a food menu, customer reviews, and a contact form section on the restaurant website.
+A Restaurant Website using HTML and CSS with Source Code. This is a Simple Restaurant Website with a main home page, types of food available, a food menu, customer reviews, and a contact form section on the restaurant website.
 
 Project Name: Thems Food Recipe App
 
@@ -8,9 +8,7 @@ Deployed Site: [Thems Food Recipe App](https://julz.tech/)
 
 Final Project Blog Article: [Read the Blog Article](https://www.linkedin.com/posts/obiyor-juliet-62a28784_thems-food-isnt-just-another-food-website-activity-7196643725500993536-_Zbl?utm_source=share&utm_medium=member_desktop)
 
-Author(s) LinkedIn:
-
-[Author Name](https://www.linkedin.com/in/obiyor-juliet-62a28784/)
+Author(s) LinkedIn: (https://www.linkedin.com/in/obiyor-juliet-62a28784/)
 Installation:
 To run the Thems Food Recipe App locally, follow these steps:
 
@@ -50,7 +48,8 @@ Related Projects:
 
 [Cooking Made Easy](insert related project link here)
 [Family Recipes App](insert related project link her)
-Licensing:
+Licensing:Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com
+License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
 This project is licensed under the [MIT License](MIT License Text).
 
 Creating Thems Food wasn't just about building a digital recipe book; it was about crafting an experience that celebrates the rich tapestry of Nigerian cuisine. Inspired by fond memories of family gatherings and traditional feasts, I set out to encapsulate the vibrant flavors and cultural heritage of Nigerian cooking in a digital format accessible to all.
@@ -67,9 +66,9 @@ Looking ahead, I see endless possibilities for growth and innovation. I envision
 
 In the end, Thems Food is more than just a project; it's a testament to the transformative power of food to unite people across borders and generations. I invite you to join me on this culinary journey and discover the magic of Nigerian cooking for yourself.
 
-🍽️ Explore Thems Food: Deployed Site
-📝 Read My Blog Article: Final Project Blog
-👩‍💼 Connect with Me on LinkedIn: Author's LinkedIn
+🍽️ Explore Thems Food: https://julz.tech
+📝 Read My Blog Article: https://www.linkedin.com/posts/obiyor-juliet-62a28784_thems-food-isnt-just-another-food-website-activity-7196643725500993536-_Zbl?
+👩‍💼 Connect with Me on LinkedIn: https://www.linkedin.com/in/obiyor-juliet-62a28784/
 
 Installation
 To install Thems Food locally, follow these steps:
